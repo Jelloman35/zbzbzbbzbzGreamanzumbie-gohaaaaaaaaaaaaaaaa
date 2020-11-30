@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\nevermodels\callofduty_ww2\zombies\armor-killer\zom_brute_b_mouth_org1_col"
+	"$bumpmap" "models\nevermodels\callofduty_ww2\zombies\armor-killer\zom_brute_b_mouth_org1_nml"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+                "$ambientocclusion" "1"
+}
+
